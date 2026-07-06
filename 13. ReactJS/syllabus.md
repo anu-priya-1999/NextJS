@@ -794,6 +794,7 @@ function Select<T extends string = string>({ options, value, onChange }: SelectP
 10. **React Internals Context:** React Signals proposal alongside Compiler (Part 3.4)
 
 **Gap-fill additions for Senior/Staff+ completeness:**
+
 11. **React Internals Deep Dive:** Fiber, double buffering, render/commit phases, Lanes model, Scheduler package, reconciliation diffing algorithm (Part 20 — entirely new)
 12. **Browser Fundamentals:** Critical rendering path, layout thrashing, compositor-only properties, `requestAnimationFrame`/`requestIdleCallback` (Part 21 — entirely new)
 13. **GraphQL Server-Side Depth:** Apollo Federation, DataLoader/N+1, schema stitching vs federation, query cost analysis (Part 16.3)
